@@ -1,0 +1,32 @@
+{
+  "name": "Core",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "connect-redis": "*",
+    "feedparser": "*",
+    "request": "*",
+    "compression": "*",
+    "serve-favicon": "*",
+    "morgan": "*",
+    "cookie-parser": "*",
+    "errorhandler": "*",
+    "express-session": "*",
+    "connect": "*",
+    "express-json": "*",
+    "mongodb": "*",
+    "nodemailer": "*",
+    "urlencode": "*",
+    "express-static-cache": "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "mysql": "*",
+    "jade": "*",
+    "method-override": "*",
+    "aws-sdk": "*"
+  }
+}
